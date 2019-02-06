@@ -16,14 +16,14 @@ with open('README.md') as readme_file:
 
 
 setup(
-    name='pymarketstore',
+    name='pymarketstore2',
     version=version,
     description='Marketstore python driver',
     long_description=README,
     long_description_content_type='text/markdown',
     author='Alpaca',
     author_email='oss@alpaca.markets',
-    url='https://github.com/alpacahq/pymarketstore',
+    url='https://github.com/xmurobi/pymarketstore',
     keywords='database,pandas,financial,timeseries',
     packages=['pymarketstore', ],
     install_requires=[
